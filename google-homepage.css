@@ -1,0 +1,16 @@
+.sign-in {
+    background-color: rgb(26, 115, 232);
+    color: white;
+}
+
+.search-bar {
+    border-radius: 10%;
+    border-width: 2px;
+    border-color: #36454f;
+}
+
+.header-links {
+    color:rgba(0, 0, 0, 0.87);
+    font-size: 14px;
+    font-family: arial, sans-serif;
+}
