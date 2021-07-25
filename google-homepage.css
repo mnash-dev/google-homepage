@@ -1,12 +1,18 @@
 .sign-in {
     background-color: rgb(26, 115, 232);
     color: white;
+    border-radius: 15%;
 }
 
 .search-bar {
-    border-radius: 10%;
-    border-width: 2px;
-    border-color: #36454f;
+    display: block;
+    margin: auto auto 15% auto;
+    border-radius: 0%;
+    border-width: 1px;
+    border-color: #36454f80;
+    justify-content: center;
+    max-width: 100%;
+    width: auto;
 }
 
 .header-links {
@@ -16,9 +22,30 @@
 }
 
 .logo {
-    max-height: 100%;
-    max-width: 100%;
-    object-fit: contain;
-    object-position: center bottom;
+    display: block;
+    margin: auto;
+    max-height: 80%;
+    max-width: 80%;
     width: auto;
+    Justify-content: center;
+    padding: 10px 0 20px 0;
+}
+
+footer {
+    background-color: #f2f2f2;
+    font-family: arial, sans serif;
+    font-size: 14px;
+    color:rgba(0, 0, 0, 0.87);
+    justify-content: center;
+    padding-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
 }
