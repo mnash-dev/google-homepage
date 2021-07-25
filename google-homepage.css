@@ -15,29 +15,24 @@
     width: auto;
 }
 
-.header-links {
-    color:rgba(0, 0, 0, 0.87);
-    font-size: 14px;
-    font-family: arial, sans-serif;
-}
-
 .logo {
     display: block;
     margin: auto;
-    max-height: 80%;
-    max-width: 80%;
+    max-height: auto;
+    max-width: 40%;
     width: auto;
     Justify-content: center;
-    padding: 10px 0 20px 0;
+    padding: 35px 0 20px 0;
 }
 
 footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: #f2f2f2;
-    font-family: arial, sans serif;
-    font-size: 14px;
-    color:rgba(0, 0, 0, 0.87);
-    justify-content: center;
-    padding-top: 20px;
+    text-align: center;
+    padding: 35px 0 35px 0;
 }
 
 ul {
@@ -47,5 +42,9 @@ ul {
 }
 
 li {
-    display: inline;
+    display: inline-grid;
+    vertical-align: center;
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 14px;
+    font-family: arial, sans-serif;
 }
