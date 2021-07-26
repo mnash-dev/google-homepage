@@ -1,18 +1,21 @@
 .sign-in {
     background-color: rgb(26, 115, 232);
     color: white;
+    font-size: 14px;
+    font-family: arial, sans-serif;
     border-radius: 15%;
+    padding: 10px 20px 10px 20px;
 }
 
 .search-bar {
     display: block;
-    margin: auto auto 15% auto;
+    margin: auto auto 20px auto;
     border-radius: 0%;
     border-width: 1px;
     border-color: #36454f80;
     justify-content: center;
-    max-width: 100%;
     width: auto;
+    min-width: 35%;
 }
 
 .logo {
@@ -23,6 +26,26 @@
     width: auto;
     Justify-content: center;
     padding: 35px 0 20px 0;
+}
+
+.submit {
+    background-color: #f8f9fa;
+    color: rgba(0, 0, 0, 0.87);
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    border-radius: 15%;
+    border-width: 0px;
+    padding: 10px 10px 10px 10px;
+    margin: auto 20px auto auto;
+}
+
+.submit-btns {
+    display: block;
+    justify-content: center;
+    margin: 30px 30px 30px 35%;
 }
 
 footer {
