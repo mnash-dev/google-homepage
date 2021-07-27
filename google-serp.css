@@ -1,0 +1,53 @@
+#logo {
+    display: float;
+    float: left;
+    width: auto;
+    height: auto;
+    max-width: 10%;
+    justify-content: left;
+    margin-right: 12px;
+}
+
+#search-bar {
+    display: float;
+    float: left;
+    position: relative;
+    height: auto;
+    width: auto;
+    min-width: 35%;
+    border-width: 1px;
+    border-color: darkgray;
+    margin: 7px 10% 5px 0;
+}
+
+.ad-label {
+
+}
+
+.url {
+
+}
+
+.title {
+
+}
+
+.meta {
+
+}
+
+header {
+
+}
+
+footer {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
