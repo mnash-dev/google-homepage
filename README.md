@@ -1,0 +1,3 @@
+This is my first HTML/CSS project as part of The Odin Project. My goal was to create a non-functional replica of the Google homepage and, after that, a Google SERP. I was able to leverage a variety of HTML and CSS functions to achieve my goal.
+Notable elements that are lacking are the signature Google circular ends to elements. I could not find a way to include these.
+It is my hope that, through this project, I can demonstrate a basic knowledge of HTML, which I will build on in future projects.
